@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=120&section=header&text=Hello%20World&fontSize=40&fontColor=auto" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=120&section=header&text=Hello%20World&fontSize=40" />
 
 #### 하루하루 성장하는 **최보현**입니다.
 
