@@ -9,8 +9,8 @@
 <br/>
 
 ## 📖 Educations
-##### Dongguk Univ. 경영정보학(MIS)
-##### - 2020.03 ~ 2024.08 (Graduated)
+#### Dongguk Univ. 경영정보학(MIS)
+#### - 2020.03 ~ 2024.08 (Graduated)
 
 <br/>
  
@@ -23,7 +23,7 @@
 <br/>
 
 ## 🧩 Skills  
-##### Main
+Main
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 Once I've Used
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
@@ -31,9 +31,9 @@ Once I've Used
 <br/>
 
 ## 📜 Certifications
-##### - TOEIC 925  (2023.08.27)
-##### - SQLD  
-##### - 정보처리기사
+#### - TOEIC 925  (2023.08.27)
+#### - SQLD  
+#### - 정보처리기사
 
 <br/>
 
