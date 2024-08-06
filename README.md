@@ -25,4 +25,4 @@ SQL(MSSQL, MySQL)
 
 ##### 📜 Certificate
 
-SQLD(SQL개발자) 
+TOEIC 925, SQLD(SQL개발자), 정보처리기사
