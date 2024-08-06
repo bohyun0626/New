@@ -9,7 +9,7 @@
 
 | PERIOD | TITLE | SUBJECT |
 | ------- | ------- | ------- | 
-| **2020.05 - | 영림원소프트랩 | ERP 개발 및 유지보수, 연동업체와 협업 개발(MES, WMS, 쇼핑몰 연동) | 
+| **2024.01 - | 영림원소프트랩 | ERP 개발 및 유지보수 | 
 | 업무세부 | | |
 
 ##### 📖 Study
@@ -20,8 +20,8 @@
 
 ##### 🧩 Skill  
 
-SQL(MSSQL, MySQL) / JAVA / C# / Python(Numpy, Pandas, Matplotlib), R
+SQL(MSSQL, MySQL) 
 
 ##### 📜 Certificate
 
-정보처리기사 / 빅데이터분석기사 / ERP 정보관리사 1급(마스터) / SQLD(SQL개발자) / ADsP(데이터분석준전문가) / 네트워크관리사2급
+SQLD(SQL개발자) 
