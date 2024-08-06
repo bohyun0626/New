@@ -23,9 +23,7 @@
 <br/>
 
 ## 🧩 Skills  
-Main
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-Once I've Used
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
 
 <br/>
