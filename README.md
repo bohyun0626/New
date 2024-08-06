@@ -4,7 +4,8 @@
 #### 직관적인 주석 및 논리적인 사고로 비즈니스에 기여하고 싶습니다. 
 
 
-
+##### Edu
+Dongguk Univ. 경영정보학과
 ##### 🏢 Career
 
 | PERIOD | TITLE | SUBJECT |
