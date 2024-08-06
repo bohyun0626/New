@@ -1,8 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,50,100&height=120&section=header&text=Hi👋I'm%20Bohyun&fontColor=3A4A51&fontSize=40" />
 
 
-
-##### 👧🏻경영과 IT기술의 융합적 지식과 경험을 바탕으로 고객의 효율적인 비즈니스를 돕는 데 기여하고 싶습니다. 
+<div align="right">
+👧🏻경영과 IT기술의 융합적 지식과 경험을 바탕으로 고객의 효율적인 비즈니스를 돕는 데 기여하고 싶습니다. 
+</div>
 
 <br/>
 
