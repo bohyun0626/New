@@ -12,7 +12,7 @@ Dongguk Univ. Department of Management Information System
 
 | PERIOD | TITLE | SUBJECT |
 | ------- | ------- | ------- | 
-| **2024.01 - | 영림원소프트랩 | ERP 개발 및 유지보수 | 
+| 2024.01 - 08 | 영림원소프트랩 | ERP 개발 및 유지보수 | 
 | 업무세부 | | |
 
 ##### 📖 Study
