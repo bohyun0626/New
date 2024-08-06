@@ -1,10 +1,4 @@
-![header](https://capsule-render.vercel.app/api?
-type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
-[![Typing SVG](https://readme-typing-svg.demolab.com?
-font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE
-&center=false&vCenter=false&multiline=true&repeat=true&width=1000
-&height=100&lines=Welcome+to+bi-sz's+GitHub!👋)](https://git.io/typing-svg)
-
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=120&section=header&text=Hello%20World&fontSize=40&fontColor=auto" />
 ### 하루하루 성장하는 **최보현**입니다.
 
 #### 개발 및 데이터베이스, 데이터 분석 등 공부하고 있습니다. 
@@ -12,7 +6,7 @@ font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE
 
 
 ##### 📖 Edu
-Dongguk Univ. 경영정보학과
+Dongguk Univ. Department of Management Information System
 ##### 🏢 Career
 
 | PERIOD | TITLE | SUBJECT |
