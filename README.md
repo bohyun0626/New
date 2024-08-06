@@ -1,10 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,50,100&height=120&section=header&text=Hi👋I'm%20Bohyun&fontColor=3A4A51&fontSize=40" />
 
-## 👧🏻About Me
-#### 하루하루 성장하는 **최보현** 입니다.
 
-##### 개발 및 데이터베이스, 데이터 분석 등 공부하고 있습니다. 
-##### 직관적인 주석 및 논리적인 사고로 비즈니스에 기여하고 싶습니다. 
+
+##### 👧🏻경영과 IT기술을 융합적 지식과 경험을 바탕으로 고객의 효율적인 비즈니스를 돕는 데 기여하고 싶습니다. 
 
 <br/>
 
