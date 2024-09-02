@@ -1,0 +1,17 @@
+-- 코드를 입력하세요
+WITH A AS (SELECT TO_NUMBER(TO_CHAR(START_DATE,'MM')) AS MONTH,
+                  CAR_ID,
+                  COUNT(*) AS RECORDS
+           FROM CAR_RENTAL_COMPANY_RENTAL_HISTORY
+           WHERE START_DATE BETWEEN TO_DATE('20220801','YYYYMMDD') 
+                            AND TO_DATE('20221031','YYYYMMDD')
+           GROUP BY TO_CHAR(START_DATE,'MM'), CAR_ID)
+SELECT MONTH,
+       CAR_ID,
+       RECORDS
+FROM  A
+WHERE A.CAR_ID IN (SELECT A.CAR_ID 
+                   FROM A 
+                   GROUP BY A.CAR_ID 
+                   HAVING SUM(A.RECORDS)>=5)
+ORDER BY MONTH, CAR_ID DESC
